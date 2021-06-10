@@ -1,1 +1,1 @@
-Hello world, my name is Shirley
+Hello world, I am studing in Holberton 
